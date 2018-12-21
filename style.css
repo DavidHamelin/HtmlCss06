@@ -1,0 +1,12 @@
+﻿
+/* Couleurs des différentes parties du formulaire */
+
+.identity {
+	background: #2574A9;
+}
+.delivery {
+	background: #9A12B3;
+}
+.pay {
+	background: #DB0A5B;
+}

@@ -10,3 +10,7 @@
 .pay {
 	background: #DB0A5B;
 }
+ul
+{
+    list-style-type: none; /* retirer les puces */
+}
